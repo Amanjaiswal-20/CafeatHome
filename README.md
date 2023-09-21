@@ -2,14 +2,14 @@
 
 CafeatHome is a MERN web application for coffee and chai enthusiasts who want to order their favorite beverages online and enjoy them in the comfort of their homes.
 
-## Prerequisites
+# Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 - Node.js and npm installed on your development machine.
 - MongoDB installed and running.
 - Git installed for version control.
 
-## Installation
+# Installation
 
 To get started with CafeatHome, follow these steps:
 
@@ -34,13 +34,15 @@ Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to access CafeatHome.
 
-## **Usage**
+
+
+**Usage** :
 
 CafeatHome provides an intuitive user interface for ordering coffee and chai.
 Users can browse the menu, add items to their cart, and place orders.
 Additionally, registered users can track their order history and manage their profiles.
 
-## **Features**
+**Features**
 
 User registration and authentication.
 Browse coffee and chai menu items.
@@ -49,13 +51,10 @@ Place and manage orders.
 User profiles and order history.
 Admin panel for managing products and orders.
 
-## ** Technologies Used**
+** Technologies Used**
 
 CafeatHome is built using the following technologies and frameworks:
 MongoDB
 Express.js
 React
 Node.js
-Passport.js for authentication
-Bootstrap for styling
-Redux for state Management
